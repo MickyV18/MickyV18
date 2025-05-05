@@ -1,64 +1,57 @@
-# Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Nice to see you!
+# 👋 Hi there! Welcome to my GitHub Space!
 
-Welcome to my GitHub space!  
-I'm **[Nama Kamu]**, an undergraduate student at **Institut Teknologi Bandung** majoring in **Information Systems and Technology**.  
-I love working with **data** and **AI** technologies. Check out some of my works below 👇
+I’m **[Nama Kamu]**, a **third-year Information Systems and Technology student** at **Institut Teknologi Bandung (ITB)**.  
+I’m passionate about **data science**, **artificial intelligence (AI)**, and **technology development** to solve real-world problems.  
+This GitHub profile is where I share my **projects**, **open-source contributions**, and **experiments** with technology.  
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Connect!
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/username)  
-[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=Line&logoColor=white)](https://line.me/ti/p/~username)
+I’m always excited to connect with other tech enthusiasts, so feel free to explore my repositories and reach out if you’d like to collaborate!
 
 ---
 
-## 💻 I Love to Work With
+## 🛠 **Technologies I’m Skilled In**
 
-### 🔥 **Main Technologies**  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-
-### 😸 **Other Skills**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+### 🌟 **Core Skills**  
+- **Languages:**  
+  - `Python`, `Java`, `C++`, `R`  
+- **Data Science & AI:**  
+  - `TensorFlow`, `PyTorch`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+- **Databases & SQL:**  
+  - `MySQL`, `PostgreSQL`, `MongoDB`
+- **Web Development:**  
+  - `HTML5`, `CSS`, `JavaScript`, `React`, `Django`
+- **Cloud & DevOps:**  
+  - `AWS`, `Google Cloud`, `Docker`, `Kubernetes`
+- **Other Tools:**  
+  - `Git`, `Jupyter Notebook`, `Tableau`, `Firebase`, `Nginx`, `Supabase`, `Figma`
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=great-gatsby&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📂 **Key Projects**
+
+1. **[Project A: Data Analysis with Machine Learning](link)**  
+   Description: A project that uses machine learning to analyze a large dataset of [type of data], aimed at uncovering insights and patterns.  
+   Technologies Used: `Python`, `Scikit-learn`, `Pandas`
+
+2. **[Project B: AI-Powered Recommendation System](link)**  
+   Description: Developed a recommendation system using collaborative filtering to suggest products to users based on past behavior.  
+   Technologies Used: `Python`, `TensorFlow`, `Django`
+
+3. **[Project C: Web Development for E-Commerce](link)**  
+   Description: Built a fully functional e-commerce website with React for the front end and Django for the back end.  
+   Technologies Used: `React`, `Django`, `MySQL`
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=username&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 📞 **Let’s Connect!**
+
+You can reach out to me through the following platforms:  
+
+- **Instagram:** [@username](https://www.instagram.com/username)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/username)  
+- **Line:** `username`
 
 ---
 
-## ✍️ QOTD  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)  
+Thank you for visiting my GitHub! Feel free to explore my projects and let's connect if you’re interested in collaborating or have any questions! 🚀
 
----
-
-### 🔝 **Top Repos**  
-📂 **[Repository A](link)**  
-📂 **[Repository B](link)**
-
----
-
-> _"Let's build the future with technology!"_ 💻🚀
-
-<!-- 
-Proudly created with GPRM ( https://gprm.itsvg.in ) 
--->
+> _"Let’s build something amazing together!"_ 💡
