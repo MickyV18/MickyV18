@@ -1,8 +1,6 @@
 # 👋 Hai, selamat datang di GitHub saya! 
 
-Saya **Micky Valentino**, mahasiswa **Sistem dan Teknologi Informasi** di **Institut Teknologi Bandung (ITB)**.  
-Saya memiliki minat besar dalam **data science**, **kecerdasan buatan (AI)**, dan **pengembangan teknologi** untuk menyelesaikan masalah dunia nyata.  
-Profil GitHub ini adalah tempat saya membagikan **proyek perkuliahan**, **perlombaan**, dan **minat** dalam teknologi.
+Saya **Micky Valentino**, mahasiswa **Sistem dan Teknologi Informasi** di **Institut Teknologi Bandung (ITB)**. Saya memiliki minat besar dalam **data science**, **kecerdasan buatan (AI)**, dan **pengembangan teknologi** untuk menyelesaikan masalah dunia nyata. Profil GitHub ini adalah tempat saya membagikan **proyek perkuliahan**, **perlombaan**, dan **minat** dalam teknologi.
 
 Saya selalu senang untuk terhubung dengan sesama penggemar teknologi, jadi jangan ragu untuk menjelajahi repositori saya dan menghubungi saya untuk berkolaborasi!
 
@@ -20,7 +18,7 @@ Saya selalu senang untuk terhubung dengan sesama penggemar teknologi, jadi janga
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌟 **Kemampuan Tambahan**  
+### ⚙️ **Kemampuan Tambahan**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-9E4F96?style=for-the-badge&logo=seaborn&logoColor=white)
@@ -38,12 +36,9 @@ Saya selalu senang untuk terhubung dengan sesama penggemar teknologi, jadi janga
 ---
 
 ## 📞 **Mari Terhubung!**
-
-Anda dapat menghubungi saya melalui platform berikut:  
-
-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [@username](https://www.instagram.com/username)  
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Profil LinkedIn](https://www.linkedin.com/in/username)  
-- ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white) `username`
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mickyvalentino18/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micky-valentino-1a8785255/)
+ [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/~mickyv18)
 
 ---
 
