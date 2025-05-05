@@ -41,10 +41,10 @@ Saya selalu senang untuk terhubung dengan sesama penggemar teknologi, jadi janga
 
 Anda dapat menghubungi saya melalui platform berikut:  
 
-- **Instagram:** [@username](https://www.instagram.com/username)  
-- **LinkedIn:** [Profil LinkedIn](https://www.linkedin.com/in/username)  
-- **Line:** `username`
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [@username](https://www.instagram.com/username)  
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Profil LinkedIn](https://www.linkedin.com/in/username)  
+- ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white) `username`
 
 ---
 
-Terima kasih telah mengunjungi GitHub saya! Jangan ragu untuk menjelajahi proyek saya dan mari terhubung jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan! 🚀
+Terima kasih telah mengunjungi GitHub space saya! Jangan ragu untuk menjelajahi proyek saya dan kontak saya untuk bertanya atau berkolaborasi ! 🚀
